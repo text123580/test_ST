@@ -34,7 +34,7 @@ function bcode_img64($b64str)
 <html>
 <head>
 
-<title>Barcode Tester</title>
+<title>Barcode Tester_222</title>
 
 <style type="text/css">
 	.error, .success {
